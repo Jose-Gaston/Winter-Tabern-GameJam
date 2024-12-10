@@ -1,0 +1,1 @@
+lock = ITEM_BLOWTORCH;
